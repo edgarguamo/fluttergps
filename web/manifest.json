@@ -1,6 +1,6 @@
 {
-    "name": "fluttergps",
-    "short_name": "fluttergps",
+    "name": "location_map_flutter_getx",
+    "short_name": "location_map_flutter_getx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
